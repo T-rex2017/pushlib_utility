@@ -6,13 +6,20 @@ even have an option to make a flashable zip if things got bad
 
 # Usage
  clone the repo
+ 
  $ https://github.com/T-rex2017/pushlib_utility.git pushlib
+ 
  open the folder
+ 
  $ cd pushlib
+ 
  set permissions
+ 
  $ chmod +x pushlib.sh
+ 
  #open the tool
- $ ./pushlib.sh
+ 
+ ./pushlib.sh
  
  # Thanks
  z3r0c00l_2k for the core idea
