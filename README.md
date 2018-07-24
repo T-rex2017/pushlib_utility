@@ -24,7 +24,10 @@ even have an option to make a flashable zip if things got bad
  # Thanks
  z3r0c00l_2k for the core idea
  
- #Note
+ # Note
+ 
  this is still in development 
+ 
  and i'm just a beginer 
+ 
  feel free to edit
