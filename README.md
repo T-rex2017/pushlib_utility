@@ -1,8 +1,20 @@
 # pushlib_utility
-This is a shell based tool for android developers
-it helps to push lib files to android via adb
-this also have options to revert changes 
-even have an option to make a flashable zip if things got bad
+
+This is a shell based tool for android rom porters
+Helps to push lib files to android device via adb
+These are the avilable options rather than pushing
+
+* Tool keep track of all your doings
+* you can always revert any change you made
+* port rom files and pulled files are kept seperate
+* if device bootloops you can make a zip from backup or port and flash it
+* more comming
+
+# Future plans
+
+* clean up the logging
+* accure logs from device
+* suggest if you have any ideas
 
 # Usage
  clone the repo
@@ -17,17 +29,17 @@ even have an option to make a flashable zip if things got bad
  
  $ chmod +x pushlib.sh
  
- #open the tool
+#open the tool
  
  ./pushlib.sh
  
- # Thanks
+# Thanks
  z3r0c00l_2k for the core idea
  
- # Note
+# Note
  
- this is still in development 
+Tool is still in development 
  
- and i'm just a beginer 
- 
- feel free to edit
+* Anyone can modify or use it without my permission ( as these are just some adb and shell loop)
+
+* Also correct me if i have done something wrong or if thier is a better way to do something
